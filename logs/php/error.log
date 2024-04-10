@@ -1,0 +1,629 @@
+[19-Feb-2024 01:47:02 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "dirbase" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php:5
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-settings.php(611): include()
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-config.php(103): require_once('C:\\Users\\carla\\...')
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-load.php(50): require_once('C:\\Users\\carla\\...')
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(13): require_once('C:\\Users\\carla\\...')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#5 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php on line 5
+[19-Feb-2024 01:47:02 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "dirbase" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php:5
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-settings.php(611): include()
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-config.php(103): require_once('C:\\Users\\carla\\...')
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-load.php(50): require_once('C:\\Users\\carla\\...')
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(13): require_once('C:\\Users\\carla\\...')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#5 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php on line 5
+[19-Feb-2024 01:47:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "dirbase" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php:5
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-settings.php(611): include()
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-config.php(103): require_once('C:\\Users\\carla\\...')
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-load.php(50): require_once('C:\\Users\\carla\\...')
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(13): require_once('C:\\Users\\carla\\...')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#5 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php on line 5
+[19-Feb-2024 01:47:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "dirbase" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php:5
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-settings.php(611): include()
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-config.php(103): require_once('C:\\Users\\carla\\...')
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-load.php(50): require_once('C:\\Users\\carla\\...')
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(13): require_once('C:\\Users\\carla\\...')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#5 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php on line 5
+[19-Feb-2024 01:47:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "dirbase" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php:5
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-settings.php(611): include()
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-config.php(103): require_once('C:\\Users\\carla\\...')
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-load.php(50): require_once('C:\\Users\\carla\\...')
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\carla\\...')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-admin\user-edit.php(10): require_once('C:\\Users\\carla\\...')
+#5 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-admin\profile.php(18): require_once('C:\\Users\\carla\\...')
+#6 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php on line 5
+[19-Feb-2024 01:47:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[19-Feb-2024 01:47:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[19-Feb-2024 01:47:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "dirbase" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php:5
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-settings.php(611): include()
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-config.php(103): require_once('C:\\Users\\carla\\...')
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-load.php(50): require_once('C:\\Users\\carla\\...')
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(13): require_once('C:\\Users\\carla\\...')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#5 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php on line 5
+[19-Feb-2024 01:47:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "dirbase" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php:5
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-settings.php(611): include()
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-config.php(103): require_once('C:\\Users\\carla\\...')
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-load.php(50): require_once('C:\\Users\\carla\\...')
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(13): require_once('C:\\Users\\carla\\...')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#5 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php on line 5
+[19-Feb-2024 01:47:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "dirbase" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php:5
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-settings.php(611): include()
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-config.php(103): require_once('C:\\Users\\carla\\...')
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-load.php(50): require_once('C:\\Users\\carla\\...')
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(13): require_once('C:\\Users\\carla\\...')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#5 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php on line 5
+[19-Feb-2024 01:49:33 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "dirbase" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php:5
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-settings.php(611): include()
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-config.php(103): require_once('C:\\Users\\carla\\...')
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-load.php(50): require_once('C:\\Users\\carla\\...')
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\carla\\...')
+#4 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php on line 5
+[19-Feb-2024 01:49:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "dirbase" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php:5
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-settings.php(611): include()
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-config.php(103): require_once('C:\\Users\\carla\\...')
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-load.php(50): require_once('C:\\Users\\carla\\...')
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\carla\\...')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-admin\options-permalink.php(10): require_once('C:\\Users\\carla\\...')
+#5 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php on line 5
+[19-Feb-2024 01:49:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "dirbase" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php:5
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-settings.php(611): include()
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-config.php(103): require_once('C:\\Users\\carla\\...')
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-load.php(50): require_once('C:\\Users\\carla\\...')
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(13): require_once('C:\\Users\\carla\\...')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#5 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php on line 5
+[19-Feb-2024 01:49:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "dirbase" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php:5
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-settings.php(611): include()
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-config.php(103): require_once('C:\\Users\\carla\\...')
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-load.php(50): require_once('C:\\Users\\carla\\...')
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\carla\\...')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-admin\options-permalink.php(10): require_once('C:\\Users\\carla\\...')
+#5 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php on line 5
+[19-Feb-2024 01:49:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "dirbase" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php:5
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-settings.php(611): include()
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-config.php(103): require_once('C:\\Users\\carla\\...')
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-load.php(50): require_once('C:\\Users\\carla\\...')
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(13): require_once('C:\\Users\\carla\\...')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#5 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php on line 5
+[19-Feb-2024 01:49:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "dirbase" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php:5
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-settings.php(611): include()
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-config.php(103): require_once('C:\\Users\\carla\\...')
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-load.php(50): require_once('C:\\Users\\carla\\...')
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(13): require_once('C:\\Users\\carla\\...')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#5 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php on line 5
+[19-Feb-2024 01:49:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "dirbase" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php:5
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-settings.php(611): include()
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-config.php(103): require_once('C:\\Users\\carla\\...')
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-load.php(50): require_once('C:\\Users\\carla\\...')
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(13): require_once('C:\\Users\\carla\\...')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#5 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php on line 5
+[19-Feb-2024 01:50:03 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "dirbase" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php:5
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-settings.php(611): include()
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-config.php(103): require_once('C:\\Users\\carla\\...')
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-load.php(50): require_once('C:\\Users\\carla\\...')
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(13): require_once('C:\\Users\\carla\\...')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#5 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php on line 5
+[19-Feb-2024 01:50:03 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "dirbase" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php:5
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-settings.php(611): include()
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-config.php(103): require_once('C:\\Users\\carla\\...')
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-load.php(50): require_once('C:\\Users\\carla\\...')
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(13): require_once('C:\\Users\\carla\\...')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#5 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php on line 5
+[19-Feb-2024 01:50:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "dirbase" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php:5
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-settings.php(611): include()
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-config.php(103): require_once('C:\\Users\\carla\\...')
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-load.php(50): require_once('C:\\Users\\carla\\...')
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(13): require_once('C:\\Users\\carla\\...')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#5 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php on line 5
+[19-Feb-2024 01:50:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "dirbase" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php:5
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-settings.php(611): include()
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-config.php(103): require_once('C:\\Users\\carla\\...')
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-load.php(50): require_once('C:\\Users\\carla\\...')
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(13): require_once('C:\\Users\\carla\\...')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#5 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php on line 5
+[19-Feb-2024 01:50:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "dirbase" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php:5
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-settings.php(611): include()
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-config.php(103): require_once('C:\\Users\\carla\\...')
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-load.php(50): require_once('C:\\Users\\carla\\...')
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(13): require_once('C:\\Users\\carla\\...')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#5 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php on line 5
+[19-Feb-2024 01:50:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "dirbase" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php:5
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-settings.php(611): include()
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-config.php(103): require_once('C:\\Users\\carla\\...')
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-load.php(50): require_once('C:\\Users\\carla\\...')
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(13): require_once('C:\\Users\\carla\\...')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#5 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php on line 5
+[19-Feb-2024 01:50:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "dirbase" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php:5
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-settings.php(611): include()
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-config.php(103): require_once('C:\\Users\\carla\\...')
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-load.php(50): require_once('C:\\Users\\carla\\...')
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\carla\\...')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-admin\index.php(10): require_once('C:\\Users\\carla\\...')
+#5 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php on line 5
+[19-Feb-2024 01:50:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "dirbase" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php:5
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-settings.php(611): include()
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-config.php(103): require_once('C:\\Users\\carla\\...')
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-load.php(50): require_once('C:\\Users\\carla\\...')
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(13): require_once('C:\\Users\\carla\\...')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#5 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\functions.php on line 5
+[28-Feb-2024 00:05:40 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[03-Mar-2024 20:26:13 UTC] PHP Parse error:  syntax error, unexpected token "function" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\user_post.php on line 4
+[03-Mar-2024 20:26:13 UTC] PHP Parse error:  syntax error, unexpected token "function" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\user_post.php on line 4
+[04-Mar-2024 01:46:51 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting "]" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\user_get.php on line 11
+[04-Mar-2024 01:46:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[04-Mar-2024 01:46:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[04-Mar-2024 01:46:59 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting "]" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\user_get.php on line 11
+[04-Mar-2024 01:47:52 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting "]" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\user_get.php on line 11
+[04-Mar-2024 01:48:52 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting "]" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\user_get.php on line 11
+[04-Mar-2024 01:49:00 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting "]" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\user_get.php on line 11
+[04-Mar-2024 01:49:53 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting "]" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\user_get.php on line 11
+[04-Mar-2024 01:50:53 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting "]" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\user_get.php on line 11
+[04-Mar-2024 01:50:53 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting "]" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\user_get.php on line 11
+[04-Mar-2024 01:51:04 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting "]" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\user_get.php on line 11
+[04-Mar-2024 01:51:54 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting "]" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\user_get.php on line 11
+[04-Mar-2024 01:52:55 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting "]" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\user_get.php on line 11
+[04-Mar-2024 01:54:56 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting "]" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\user_get.php on line 11
+[04-Mar-2024 02:00:27 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\user_get.php on line 10
+[04-Mar-2024 02:27:11 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_post.php on line 11
+[04-Mar-2024 02:28:12 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_post.php on line 11
+[04-Mar-2024 02:29:16 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_post.php on line 11
+[04-Mar-2024 02:41:18 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "", expecting "]" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_post.php on line 30
+[04-Mar-2024 02:41:43 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "", expecting "]" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_post.php on line 30
+[04-Mar-2024 02:42:18 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "", expecting "]" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_post.php on line 30
+[04-Mar-2024 02:43:18 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "", expecting "]" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_post.php on line 30
+[04-Mar-2024 02:44:18 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "", expecting "]" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_post.php on line 30
+[04-Mar-2024 02:45:18 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "", expecting "]" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_post.php on line 27
+[04-Mar-2024 02:46:19 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "", expecting "]" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_post.php on line 27
+[04-Mar-2024 02:46:29 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "", expecting "]" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_post.php on line 27
+[04-Mar-2024 02:47:19 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "", expecting "]" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_post.php on line 27
+[05-Mar-2024 23:02:05 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:02:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[05-Mar-2024 23:02:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[05-Mar-2024 23:02:07 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:03:05 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:03:53 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:04:05 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:04:08 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:04:24 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:04:40 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:04:56 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:05:06 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:05:12 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:06:00 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:06:07 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:06:16 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:06:32 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:06:47 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:07:02 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:07:07 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:07:17 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:07:33 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:08:08 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:09:12 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:09:12 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:09:26 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:09:42 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:10:01 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:10:12 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:10:16 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:10:31 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:10:47 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:11:03 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:11:13 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:11:18 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:11:34 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:11:50 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:12:05 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:12:14 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:12:21 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:12:36 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:12:51 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:13:14 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:14:29 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:14:29 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:14:44 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:15:00 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:15:15 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:15:29 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:15:30 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:15:46 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:16:01 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:16:17 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:16:30 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:18:18 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:18:31 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:20:19 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:20:32 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:22:20 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:22:33 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:22:54 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:23:10 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:23:14 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:23:16 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:23:16 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:23:23 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:23:23 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:23:28 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:23:28 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:24:55 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:24:55 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:24:55 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:25:00 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:25:00 UTC] PHP Parse error:  syntax error, unexpected variable "$author_id" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:30:10 UTC] PHP Warning:  Undefined variable $post_author in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:38:33 UTC] PHP Warning:  Undefined variable $post_author in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:39:59 UTC] PHP Warning:  Undefined variable $post_author in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:40:05 UTC] PHP Warning:  Undefined variable $post_author in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:41:05 UTC] PHP Warning:  Undefined variable $post_author in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[05-Mar-2024 23:43:46 UTC] PHP Warning:  Undefined variable $post_author in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_delete.php on line 7
+[06-Mar-2024 00:26:51 UTC] PHP Parse error:  syntax error, unexpected token "return" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\comment_post.php on line 29
+[06-Mar-2024 00:26:54 UTC] PHP Parse error:  syntax error, unexpected token "return" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\comment_post.php on line 29
+[06-Mar-2024 00:27:17 UTC] PHP Parse error:  syntax error, unexpected token "return" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\comment_post.php on line 29
+[06-Mar-2024 00:27:17 UTC] PHP Parse error:  syntax error, unexpected token "return" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\comment_post.php on line 29
+[06-Mar-2024 00:27:17 UTC] PHP Parse error:  syntax error, unexpected token "return" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\comment_post.php on line 29
+[06-Mar-2024 01:27:00 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 7
+[06-Mar-2024 01:27:29 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 7
+[06-Mar-2024 01:27:30 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 7
+[06-Mar-2024 01:27:30 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 7
+[07-Apr-2024 02:26:37 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-admin\includes\file.php on line 929
+[07-Apr-2024 03:35:11 UTC] PHP Warning:  Undefined variable $_total in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 64
+[07-Apr-2024 03:35:11 UTC] PHP Warning:  Undefined variable $_page in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 65
+[07-Apr-2024 03:35:11 UTC] PHP Warning:  Undefined variable $_user in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 66
+[07-Apr-2024 03:35:43 UTC] PHP Warning:  Undefined variable $_total in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 64
+[07-Apr-2024 03:35:43 UTC] PHP Warning:  Undefined variable $_page in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 65
+[07-Apr-2024 03:35:43 UTC] PHP Warning:  Undefined variable $_user in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 66
+[07-Apr-2024 03:36:55 UTC] PHP Warning:  Undefined variable $_total in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 64
+[07-Apr-2024 03:36:55 UTC] PHP Warning:  Undefined variable $_page in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 65
+[07-Apr-2024 03:36:55 UTC] PHP Warning:  Undefined variable $_user in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 66
+[07-Apr-2024 03:36:58 UTC] PHP Warning:  Undefined variable $_total in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 64
+[07-Apr-2024 03:36:58 UTC] PHP Warning:  Undefined variable $_page in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 65
+[07-Apr-2024 03:36:58 UTC] PHP Warning:  Undefined variable $_user in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 66
+[07-Apr-2024 03:37:13 UTC] PHP Warning:  Undefined variable $_total in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 64
+[07-Apr-2024 03:37:13 UTC] PHP Warning:  Undefined variable $_page in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 65
+[07-Apr-2024 03:37:13 UTC] PHP Warning:  Undefined variable $_user in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 66
+[07-Apr-2024 03:38:47 UTC] PHP Warning:  Undefined variable $_total in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 64
+[07-Apr-2024 03:38:47 UTC] PHP Warning:  Undefined variable $_page in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 65
+[07-Apr-2024 03:38:47 UTC] PHP Warning:  Undefined variable $_user in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 66
+[07-Apr-2024 03:38:59 UTC] PHP Warning:  Undefined variable $_total in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 64
+[07-Apr-2024 03:38:59 UTC] PHP Warning:  Undefined variable $_page in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 65
+[07-Apr-2024 03:38:59 UTC] PHP Warning:  Undefined variable $_user in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 66
+[07-Apr-2024 03:39:03 UTC] PHP Warning:  Undefined variable $_total in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 64
+[07-Apr-2024 03:39:03 UTC] PHP Warning:  Undefined variable $_page in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 65
+[07-Apr-2024 03:39:03 UTC] PHP Warning:  Undefined variable $_user in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 66
+[07-Apr-2024 03:39:10 UTC] PHP Warning:  Undefined variable $_total in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 64
+[07-Apr-2024 03:39:10 UTC] PHP Warning:  Undefined variable $_page in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 65
+[07-Apr-2024 03:39:10 UTC] PHP Warning:  Undefined variable $_user in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 66
+[07-Apr-2024 03:39:30 UTC] PHP Warning:  Undefined variable $_total in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 64
+[07-Apr-2024 03:39:30 UTC] PHP Warning:  Undefined variable $_page in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 65
+[07-Apr-2024 03:39:30 UTC] PHP Warning:  Undefined variable $_user in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 66
+[09-Apr-2024 01:30:03 UTC] PHP Warning:  Undefined variable $_total in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 64
+[09-Apr-2024 01:30:03 UTC] PHP Warning:  Undefined variable $_page in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 65
+[09-Apr-2024 01:30:03 UTC] PHP Warning:  Undefined variable $_user in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 66
+[09-Apr-2024 01:32:10 UTC] PHP Warning:  Undefined variable $_total in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 64
+[09-Apr-2024 01:32:10 UTC] PHP Warning:  Undefined variable $_page in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 65
+[09-Apr-2024 01:32:10 UTC] PHP Warning:  Undefined variable $_user in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 66
+[09-Apr-2024 01:32:16 UTC] PHP Warning:  Undefined variable $_total in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 64
+[09-Apr-2024 01:32:16 UTC] PHP Warning:  Undefined variable $_page in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 65
+[09-Apr-2024 01:32:16 UTC] PHP Warning:  Undefined variable $_user in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 66
+[09-Apr-2024 01:32:18 UTC] PHP Warning:  Undefined variable $_total in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 64
+[09-Apr-2024 01:32:18 UTC] PHP Warning:  Undefined variable $_page in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 65
+[09-Apr-2024 01:32:18 UTC] PHP Warning:  Undefined variable $_user in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 66
+[09-Apr-2024 02:07:26 UTC] PHP Warning:  Undefined variable $photo_data in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 76
+[09-Apr-2024 02:07:26 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php:76
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(1230): api_photos_get(Object(WP_REST_Request))
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/api/photo', Array, NULL)
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api.php(428): WP_REST_Server->serve_request('/api/photo')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#5 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#7 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#8 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#9 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\functions.php(1336): WP->main('')
+#10 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(16): wp()
+#11 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#12 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 76
+[09-Apr-2024 02:09:09 UTC] PHP Warning:  Undefined variable $photo_data in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 76
+[09-Apr-2024 02:09:09 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php:76
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(1230): api_photos_get(Object(WP_REST_Request))
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/api/photo', Array, NULL)
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api.php(428): WP_REST_Server->serve_request('/api/photo')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#5 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#7 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#8 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#9 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\functions.php(1336): WP->main('')
+#10 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(16): wp()
+#11 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#12 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 76
+[09-Apr-2024 02:09:13 UTC] PHP Warning:  Undefined variable $photo_data in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 76
+[09-Apr-2024 02:09:13 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php:76
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(1230): api_photos_get(Object(WP_REST_Request))
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/api/photo', Array, NULL)
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api.php(428): WP_REST_Server->serve_request('/api/photo')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#5 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#7 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#8 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#9 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\functions.php(1336): WP->main('')
+#10 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(16): wp()
+#11 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#12 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 76
+[09-Apr-2024 02:15:24 UTC] PHP Warning:  Undefined variable $photo_data in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 76
+[09-Apr-2024 02:15:24 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php:76
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(1230): api_photos_get(Object(WP_REST_Request))
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/api/photo', Array, NULL)
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api.php(428): WP_REST_Server->serve_request('/api/photo')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#5 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#7 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#8 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#9 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\functions.php(1336): WP->main('')
+#10 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(16): wp()
+#11 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#12 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 76
+[09-Apr-2024 02:15:26 UTC] PHP Warning:  Undefined variable $photo_data in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 76
+[09-Apr-2024 02:15:26 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php:76
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(1230): api_photos_get(Object(WP_REST_Request))
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/api/photo', Array, NULL)
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api.php(428): WP_REST_Server->serve_request('/api/photo')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#5 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#7 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#8 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#9 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\functions.php(1336): WP->main('')
+#10 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(16): wp()
+#11 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#12 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 76
+[09-Apr-2024 02:16:58 UTC] PHP Warning:  Undefined variable $photo_data in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 76
+[09-Apr-2024 02:16:58 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php:76
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(1230): api_photos_get(Object(WP_REST_Request))
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/api/photo', Array, NULL)
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api.php(428): WP_REST_Server->serve_request('/api/photo')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#5 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#7 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#8 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#9 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\functions.php(1336): WP->main('')
+#10 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(16): wp()
+#11 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#12 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 76
+[09-Apr-2024 02:17:00 UTC] PHP Warning:  Undefined variable $photo_data in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 76
+[09-Apr-2024 02:17:00 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php:76
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(1230): api_photos_get(Object(WP_REST_Request))
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/api/photo', Array, NULL)
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api.php(428): WP_REST_Server->serve_request('/api/photo')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#5 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#7 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#8 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#9 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\functions.php(1336): WP->main('')
+#10 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(16): wp()
+#11 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#12 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 76
+[09-Apr-2024 02:21:11 UTC] PHP Warning:  Undefined variable $photo_data in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 76
+[09-Apr-2024 02:21:11 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php:76
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(1230): api_photos_get(Object(WP_REST_Request))
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/api/photo', Array, NULL)
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api.php(428): WP_REST_Server->serve_request('/api/photo')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#5 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#7 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#8 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#9 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\functions.php(1336): WP->main('')
+#10 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(16): wp()
+#11 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#12 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 76
+[09-Apr-2024 02:21:13 UTC] PHP Warning:  Undefined variable $photo_data in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 76
+[09-Apr-2024 02:21:13 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php:76
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(1230): api_photos_get(Object(WP_REST_Request))
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/api/photo', Array, NULL)
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api.php(428): WP_REST_Server->serve_request('/api/photo')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#5 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#7 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#8 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#9 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\functions.php(1336): WP->main('')
+#10 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(16): wp()
+#11 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#12 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 76
+[09-Apr-2024 02:22:37 UTC] PHP Warning:  Undefined variable $photo_data in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 76
+[09-Apr-2024 02:22:37 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php:76
+Stack trace:
+#0 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(1230): api_photos_get(Object(WP_REST_Request))
+#1 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/api/photo', Array, NULL)
+#2 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\rest-api.php(428): WP_REST_Server->serve_request('/api/photo')
+#4 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#5 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#7 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#8 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#9 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\functions.php(1336): WP->main('')
+#10 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-blog-header.php(16): wp()
+#11 C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\index.php(17): require('C:\\Users\\carla\\...')
+#12 {main}
+  thrown in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 76
+[09-Apr-2024 02:29:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 02:29:11 UTC] PHP Warning:  Undefined array key "img" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 02:29:11 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 02:29:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 02:29:11 UTC] PHP Warning:  Undefined array key "img" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 02:29:11 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 02:29:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 02:29:11 UTC] PHP Warning:  Undefined array key "bairro" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[09-Apr-2024 02:29:11 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[09-Apr-2024 02:29:11 UTC] PHP Warning:  Undefined array key "img" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 02:29:11 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 02:29:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 02:29:11 UTC] PHP Warning:  Undefined array key "bairro" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[09-Apr-2024 02:29:11 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[09-Apr-2024 02:29:11 UTC] PHP Warning:  Undefined array key "acessos" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 16
+[09-Apr-2024 02:29:11 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 16
+[09-Apr-2024 02:30:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 02:30:07 UTC] PHP Warning:  Undefined array key "img" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 02:30:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 02:30:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 02:30:07 UTC] PHP Warning:  Undefined array key "img" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 02:30:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 02:30:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 02:30:07 UTC] PHP Warning:  Undefined array key "bairro" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[09-Apr-2024 02:30:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[09-Apr-2024 02:30:07 UTC] PHP Warning:  Undefined array key "img" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 02:30:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 02:30:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 02:30:07 UTC] PHP Warning:  Undefined array key "bairro" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[09-Apr-2024 02:30:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[09-Apr-2024 02:30:07 UTC] PHP Warning:  Undefined array key "acessos" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 16
+[09-Apr-2024 02:30:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 16
+[09-Apr-2024 15:09:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:09:16 UTC] PHP Warning:  Undefined array key "img" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:09:16 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:09:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:09:16 UTC] PHP Warning:  Undefined array key "img" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:09:16 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:09:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:09:16 UTC] PHP Warning:  Undefined array key "bairro" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[09-Apr-2024 15:09:16 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[09-Apr-2024 15:09:16 UTC] PHP Warning:  Undefined array key "img" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:09:16 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:09:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:09:16 UTC] PHP Warning:  Undefined array key "bairro" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[09-Apr-2024 15:09:16 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[09-Apr-2024 15:09:16 UTC] PHP Warning:  Undefined array key "acessos" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 16
+[09-Apr-2024 15:09:16 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 16
+[09-Apr-2024 15:10:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:10:58 UTC] PHP Warning:  Undefined array key "img" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:10:58 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:10:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:10:58 UTC] PHP Warning:  Undefined array key "img" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:10:58 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:10:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:10:58 UTC] PHP Warning:  Undefined array key "bairro" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[09-Apr-2024 15:10:58 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[09-Apr-2024 15:10:58 UTC] PHP Warning:  Undefined array key "img" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:10:58 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:10:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:10:58 UTC] PHP Warning:  Undefined array key "bairro" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[09-Apr-2024 15:10:58 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[09-Apr-2024 15:10:58 UTC] PHP Warning:  Undefined array key "acessos" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 16
+[09-Apr-2024 15:10:58 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 16
+[09-Apr-2024 15:12:12 UTC] PHP Warning:  Undefined array key "img" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:12:12 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:12:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:12:12 UTC] PHP Warning:  Undefined array key "bairro" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[09-Apr-2024 15:12:12 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[09-Apr-2024 15:12:12 UTC] PHP Warning:  Undefined array key "acessos" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 16
+[09-Apr-2024 15:12:12 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 16
+[09-Apr-2024 15:12:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:12:19 UTC] PHP Warning:  Undefined array key "img" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:12:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:12:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:12:19 UTC] PHP Warning:  Undefined array key "img" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:12:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:12:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:12:19 UTC] PHP Warning:  Undefined array key "bairro" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[09-Apr-2024 15:12:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[09-Apr-2024 15:12:19 UTC] PHP Warning:  Undefined array key "img" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:12:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:12:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[09-Apr-2024 15:12:19 UTC] PHP Warning:  Undefined array key "bairro" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[09-Apr-2024 15:12:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[09-Apr-2024 15:12:19 UTC] PHP Warning:  Undefined array key "acessos" in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 16
+[09-Apr-2024 15:12:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-content\themes\api\endpoints\photo_get.php on line 16
+[09-Apr-2024 21:13:39 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\carla\Desktop\sites\goldesaltoapi\app\public\wp-includes\class-wp-customize-widgets.php on line 905
